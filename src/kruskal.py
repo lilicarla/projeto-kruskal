@@ -31,7 +31,7 @@ def kruskal(graph: g.Graph):
         except:
             marked[keyTwo] = True
             newPointD = True
-            v2 = graph.g[keyOne]
+            v2 = graph.g[keyTwo]
             s.addV(keyTwo,v2.lat,v2.long,v2.name)
         
         if not newPointS and not newPointD:

@@ -7,5 +7,5 @@
 
 
 ### Observações
-* Para esse projeto, a base de dados de **helipontos** foi filtada a fim de conter somente os pontos localizados no estado de **Minas Gerais**.
+* Para esse projeto, a base de dados de **helipontos** foi filtrada a fim de conter somente os pontos localizados no estado de **Minas Gerais**.
 ------------
